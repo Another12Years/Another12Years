@@ -5,8 +5,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/_372991" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.oqdl" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/QWZduKpStG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/QWZduKpStG" height="30" width="40" /></a>
+<a href="https://instagram.com/lzoommm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.oqdl" height="30" width="40" /></a>
+<a href="https://discord.gg/QWZduKpStG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/QWZduKpStG" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
