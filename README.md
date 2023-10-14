@@ -13,5 +13,5 @@
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 <video width="600" height="500" controls>
-  <source src="https://cdn.discordapp.com/attachments/1020692890357334077/1162735630942482472/Gjpu52ocZIQfBkBgLIC2Ri1DOMbbYAm4sn0eDXxU9L6E.mov?ex=653d04f1&is=652a8ff1&hm=f166ff72a47fa8fcc34872176d6fb1a32868cbba4a23793735989a257de4ccd7&"type="video/mp4">
+  <source src="https://vt.tiktok.com/ZSNj8GgDa/"type="video/mp4">
 </video>
