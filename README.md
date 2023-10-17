@@ -1,4 +1,3 @@
-# LzomProfile
 
 ### My Discord
 ![Discord](https://discord.c99.nl/widget/theme-2/844418256583262218.png)
