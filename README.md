@@ -1,5 +1,4 @@
 
-https://github.com/Another14Years/Another14Years/assets/100523022/4540286e-030d-473b-8094-02bcb6db2025
 
 ### My Discord
 ![Discord](https://discord.c99.nl/widget/theme-2/844418256583262218.png)
