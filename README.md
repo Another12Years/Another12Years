@@ -1,7 +1,7 @@
 
 
 ### My Discord
-![Discord](https://discord.c99.nl/widget/theme-2/844418256583262218.png)
+![Discord]([https://i.imgur.com/GmSiwlK.jpg])
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,7 +14,7 @@
 
 
 
-![Watch The Video](https://github.com/Another14Years/Another14Years/assets/100523022/6b205935-4c9c-4b28-8ff9-bb1cc019fb0a)
+![Watch The Video]([https://github.com/Another12Years/Another14Years/assets/100523022/6b205935-4c9c-4b28-8ff9-bb1cc019fb0a])
 
 
 
