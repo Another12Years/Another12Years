@@ -15,7 +15,6 @@
 ![Discord](https://github.com/Another12Years/Another12Years/assets/100523022/a007f4bf-4c68-45ea-8135-f85ffcca6933)
 
 
-<div style="width:100%;height:0px;position:relative;padding-bottom:100.000%;"><iframe src="https://streamable.com/e/t291ig" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 
 
