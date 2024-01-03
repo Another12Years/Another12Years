@@ -1,7 +1,7 @@
 
 
 ### My Discord
-![Discord](https://i.imgur.com/GmSiwlK.jpg)
+![Discord](httphttps://github.com/Another12Years/Another12Years/assets/100523022/a007f4bf-4c68-45ea-8135-f85ffcca6933s://i.imgur.com/GmSiwlK.jpg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
